@@ -34,3 +34,13 @@ body {
 .nextBtn:hover {
   background: var(--lightBlue);
 }
+
+.positiveCounter{
+  color: green !important;
+}
+.zeroCounter{
+  color: black !important;
+}
+.negativeCounter{
+  color: red !important;
+}
